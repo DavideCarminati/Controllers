@@ -1,0 +1,7 @@
+-I/home/administrator/Documents/MATLAB/Controllers
+-I/home/administrator/Documents/MATLAB/Controllers/IsolatedSMC_2019a_ert_rtw
+-I/usr/local/MATLAB/R2019a/extern/include
+-I/usr/local/MATLAB/R2019a/simulink/include
+-I/usr/local/MATLAB/R2019a/rtw/c/src
+-I/usr/local/MATLAB/R2019a/rtw/c/src/ext_mode/common
+-I/usr/local/MATLAB/R2019a/rtw/c/ert
